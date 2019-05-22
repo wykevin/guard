@@ -1,0 +1,15 @@
+{
+  "call": {
+    "appid": "x",
+    "appkey": "x",
+    "tpl_id": 1,
+    "callback_url": "x"
+  },
+  "mail": {
+    "sender": "x",
+    "password": "x"
+  },
+  "wxwechat": {
+    "url": "x"
+  }
+}

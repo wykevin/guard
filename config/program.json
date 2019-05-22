@@ -1,0 +1,11 @@
+{
+  "nginx": {
+    "port": "80",
+    "route": "/test",
+    "crash_log_path": "/usr/local/nginx/logs/access.log",
+    "mail_receivers": "python@python.com",
+    "number": [
+      "88888888888"
+    ]
+  }
+}
